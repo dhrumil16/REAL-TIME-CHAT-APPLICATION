@@ -63,11 +63,12 @@ This chat system also lays a strong foundation for future enhancements, such as 
 ## 📸 Screenshots
 
 ### 🔐 Login & Room Selection  
-![Login Page](screenshots/login.png)
+![Image](https://github.com/user-attachments/assets/a759a59d-80da-4c7d-aed4-415b32ee8762)
 
 ### 💬 Chat Room Interface  
-![Chat Room](screenshots/chat-room.png)
+![Image](https://github.com/user-attachments/assets/2b330631-ef13-456d-91c1-841eb3756d74)
 
 ### 👥 User Count and System Messages  
-![User Activity](screenshots/user-activity.png)
+![Image](https://github.com/user-attachments/assets/e988b660-5b6e-4c90-9278-fed54155364a)
+
 
