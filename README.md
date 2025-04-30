@@ -1,3 +1,10 @@
+ **COMPANY**: CODTECH IT SOLUTION
+ **NAME**: DHRUMIL PATEL
+ **INTERN ID**: CT04DA353
+ **DOMAIN**: React.js Web Development
+ **DURATION**: 4 WEEKS
+ **MENTOR**: NEELA SANTOSH
+ 
 # 💬 Real-Time Chat App
 
 The **Chat App** is a fully functional, real-time communication platform built using **React.js** for the frontend and **Socket.io** for the backend. Designed to deliver seamless user experiences, the application enables users to join chat rooms, send and receive messages in real time, and track active participants in each room. With its modern interface, responsive layout, and real-time interactivity, the app is ideal for team collaborations, topic-based discussions, and social chat environments.
