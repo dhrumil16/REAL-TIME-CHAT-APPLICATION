@@ -1,9 +1,15 @@
  **COMPANY**: CODTECH IT SOLUTION
+ 
  **NAME**: DHRUMIL PATEL
+ 
  **INTERN ID**: CT04DA353
+ 
  **DOMAIN**: React.js Web Development
+ 
  **DURATION**: 4 WEEKS
+ 
  **MENTOR**: NEELA SANTOSH
+ 
  
 # 💬 Real-Time Chat App
 
